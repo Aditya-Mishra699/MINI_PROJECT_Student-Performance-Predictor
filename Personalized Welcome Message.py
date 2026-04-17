@@ -1,0 +1,5 @@
+# this program ask user name and show welcome mesage
+
+name = input("Enter your name: ")
+
+print("Hello", name, "Welcome to the program!")
